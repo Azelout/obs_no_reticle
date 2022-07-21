@@ -7,5 +7,5 @@ Ce script permet de cacher les viseurs d'armes en remplaçant le .gfx qui s'occu
 [EN]
 This script remove the weapon reticle using .gfx replacement instead of using [_HideHudComponentThisFrame_](https://docs.fivem.net/natives/?_0x6806C51AD12B83B8) in a while loop.
 
-This script was originaly made for [Obsidian RôlePlay](https://obsidianrp.fr)
+This script was originally made for [Obsidian RôlePlay](https://obsidianrp.fr).
 ![banner](https://i.imgur.com/BHx3i8X.png)
